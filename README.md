@@ -1,7 +1,7 @@
 # Declarator
 
 Éste es un script de Ruby para generar y subir declaraciones sin valor a pagar
-al (sistema del SRI)[https://declaraciones.sri.gob.ec/]. Actualmente, sirve
+al [sistema del SRI](https://declaraciones.sri.gob.ec/). Actualmente, sirve
 sólo con el formulario 104A (IVA mensual, no obligados a llevar contabilidad).
 
 ## Uso
