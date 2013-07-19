@@ -10,8 +10,7 @@ sólo con el formulario 104A (IVA mensual, no obligados a llevar contabilidad).
 - `bundle install`
 - `cp config.yml.example config.yml`
 - Llenar el archivo `config.yml` con los datos adecuados
-- `./declarator.rb`
-- Repetir el siguiente mes
+- `./declarator.rb` (cada mes)
 
 ## ¿Por qué?
 
