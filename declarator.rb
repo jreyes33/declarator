@@ -19,6 +19,11 @@ class Declarator
     # Past month's declaration
     @month = Date.today.month - 1
     @year = Date.today.year
+    # December is tricky
+    if @month == 0
+      @month = 12
+      @year -= 1
+    end
     @dest = "04ORI_#{MONTHS_ES[@month - 1]}#{@year}.xml"
   end
 
