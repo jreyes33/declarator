@@ -8,7 +8,7 @@ class Declarator
   CONF_FILE = 'config.yml'
   BASE_FILE = 'base.xml'
   LOGIN_URL = 'https://declaraciones.sri.gob.ec/tuportal-internet/index.jsp'
-  UPLOAD_URL = 'https://declaraciones.sri.gob.ec/rec-declaraciones-internet/recepcion/mostrarDeclaracion.jspa?codVF=04201201'
+  UPLOAD_URL = 'https://declaraciones.sri.gob.ec/rec-declaraciones-internet/recepcion/mostrarDeclaracion.jspa?codVF=04201401'
   MONTHS_ES = %w{ENERO FEBRERO MARZO ABRIL MAYO JUNIO JULIO AGOSTO SEPTIEMBRE OCTUBRE NOVIEMBRE DICIEMBRE}
 
   def initialize
